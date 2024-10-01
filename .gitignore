@@ -1,0 +1,16 @@
+# Dependencias y entornos virtuales
+/venv/
+*.pyc
+__pycache__/
+
+# Archivos de configuración
+.env
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del editor
+.vscode/
+.idea/
+
